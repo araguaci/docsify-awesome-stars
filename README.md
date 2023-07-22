@@ -4668,3 +4668,6 @@
 
 To the extent possible under law, [araguaci](https://github.com/araguaci) has waived all copyright and related or neighboring rights to this work.
 
+<hr>
+
+[Powered by artesdosul](https://artesdosul.com)
