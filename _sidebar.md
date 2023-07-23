@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line first-line-heading -->
+- [Awesome stars](/)
 - [Ideia](ideia.md) 
 - [Machine Learning](machine-learning-courses.md) 
 - [Moji Cheat Sheet](emoji-cheat-sheet.md) 
@@ -13,3 +14,9 @@
   - [Html Meta Tags](complete-list-of-html-meta-tags.md) 
   - [Welcome](welcome.md) 
   - [Hexagon](hexagon.md) 
+
+- **Links**
+- [![code](assets/img/code.svg)demo sandbox](https://codesandbox.io/s/xv36w4695o)
+- [![github](assets/img/github.svg)github](https://github.com/jhildenbiddle/docsify-themeable)
+- [![npm](assets/img/npm.svg)npm](https://www.npmjs.com/package/docsify-themeable)
+- [![twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/jhildenbiddle)

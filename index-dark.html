@@ -23,11 +23,52 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     /> 
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/style.min.css" type="text/css">
-
-    <!-- docsify-themeable styles-->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
-    <link rel="stylesheet alternative" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="dark">     
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+      title="vue"
+    />  
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"
+      disable
+    />
+    <style>
+      nav.app-nav li ul {
+        min-width: 100px;
+      } 
+      :root {
+        --base-font-size: 14px;
+        --theme-color: #fd6843;
+      }      
+      h1, h2, h3 {
+        font-weight: bold !important;
+      }
+      h1, h2, h3, .anchor span {
+        color: #fd6843 !important;
+      }
+      body, p, span, li, ol, ul, --text_color {
+          color: #54534e !important;
+      }
+      @media (prefers-color-scheme: dark) {
+        p, li, ul, span {
+          color: #d9d7d0 !important;
+        }        
+        a {
+          color: #fd7755 !important;
+        }
+      }
+      :root[data-theme="dark"] {
+        --font-color: #d9d7d0; 
+      }
+      h1[data-theme="dark"], h2[data-theme="dark"], h3[data-theme="dark"], a span[data-theme="dark"], .anchor span[data-theme="dark"], --font-color[data-theme="dark"] {
+        color: #fd6843 !important;
+      }
+      body[data-theme="dark"], p[data-theme="dark"], span[data-theme="dark"], li[data-theme="dark"], ol[data-theme="dark"], ul[data-theme="dark"], --text_color[data-theme="dark"], .sidebar ul li[data-theme="dark"] {
+        color: #d9d7d0 !important;
+      }
+       
+    </style>
 </head>
 <body>
   <div id="app">Loading ...</div> 
@@ -51,7 +92,7 @@
           facebook: true,
           twitter: true,
           whatsapp: true,
-          telegram: true, 
+          telegram: true,
           options: {
             color: '#fd6843'
           },
@@ -70,18 +111,10 @@
       }
     }
   </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
   <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> 
-  <script
-    src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"
-    type="text/javascript">
-  </script>
-
-  <script
-      src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"
-      type="text/javascript">
-  </script>
 </body>
 </html>
