@@ -16,7 +16,6 @@
   - [Hexagon](hexagon.md) 
 
 - **Links**
-- [![code](assets/img/code.svg)demo sandbox](https://codesandbox.io/s/xv36w4695o)
-- [![github](assets/img/github.svg)github](https://github.com/jhildenbiddle/docsify-themeable)
-- [![npm](assets/img/npm.svg)npm](https://www.npmjs.com/package/docsify-themeable)
-- [![twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/jhildenbiddle)
+- [![github](media/github.png)araguaci](https://github.com/araguaci)
+- [![facebook](media/facebook.png)@artesdosulweb](https://www.facebook.com/artesdosulweb/)
+- [![instagram](media/instagram.png)@araguaciandrade](https://www.instagram.com/araguaciandrade/)
