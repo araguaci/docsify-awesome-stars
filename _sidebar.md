@@ -2,18 +2,19 @@
 - [Awesome stars](/)
 - [Ideia](ideia.md) 
 - [Machine Learning](machine-learning-courses.md) 
-- [Moji Cheat Sheet](emoji-cheat-sheet.md) 
 - [Opensource](opensource.md) 
 - [Resources](web-development-resources.md) 
 - [webRTC](webrtc.md) 
 - Extra
   - [Cool Repos](other-cool-repos.md) 
+  - [Awesome PHP](awesome-php.md)
   - [Portfolios](portfolios.md) 
   - [Markdown IT](markdown-it.md) 
   - [Markdown Emojis](markdown-emojis.md) 
   - [Html Meta Tags](complete-list-of-html-meta-tags.md) 
   - [Welcome](welcome.md) 
   - [Hexagon](hexagon.md) 
+  - [Moji Cheat Sheet](emoji-cheat-sheet.md) 
 
 - **Links**
 - [![artesdosul](media/artesdosul.png)artesdosul](https://www.artesdosul.com)
