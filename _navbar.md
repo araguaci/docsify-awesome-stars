@@ -6,6 +6,7 @@
 - [webRTC](webrtc.md) 
 - Extra
   - [Awesome PHP](awesome-php.md)
+  - [Awesome Python](awesome-python.md)
   - [Cool Repos](other-cool-repos.md) 
   - [Hexagon](hexagon.md) 
   - [Html Meta Tags](complete-list-of-html-meta-tags.md) 

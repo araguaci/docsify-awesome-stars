@@ -6,15 +6,16 @@
 - [Resources](web-development-resources.md) 
 - [webRTC](webrtc.md) 
 - Extra
-  - [Cool Repos](other-cool-repos.md) 
   - [Awesome PHP](awesome-php.md)
-  - [Portfolios](portfolios.md) 
+  - [Awesome Python](awesome-python.md)
+  - [Cool Repos](other-cool-repos.md) 
+  - [Hexagon](hexagon.md) 
+  - [Html Meta Tags](complete-list-of-html-meta-tags.md) 
   - [Markdown IT](markdown-it.md) 
   - [Markdown Emojis](markdown-emojis.md) 
-  - [Html Meta Tags](complete-list-of-html-meta-tags.md) 
-  - [Welcome](welcome.md) 
-  - [Hexagon](hexagon.md) 
   - [Moji Cheat Sheet](emoji-cheat-sheet.md) 
+  - [Portfolios](portfolios.md) 
+  - [Welcome](welcome.md) 
 
 - **Links**
 - [![artesdosul](media/artesdosul.png)artesdosul](https://www.artesdosul.com)
