@@ -3,7 +3,8 @@
 - [Machine Learning](machine-learning-courses.md) 
 - [Opensource](opensource.md) 
 - [Resources](web-development-resources.md) 
-- [webRTC](webrtc.md) 
+- [Security](curated-list-o-privacy-security.md) 
+- [webRTC](WebRTC.md) 
 - Extra
   - [Awesome PHP](awesome-php.md)
   - [Awesome Python](awesome-python.md)
